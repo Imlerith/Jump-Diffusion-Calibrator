@@ -2,4 +2,4 @@
 *.pyc
 .ipynb_checkpoints/
 *.DS_Store
-jumpdiffcalibrator/__pycache__/
+Jump-Diffusion-Calibrator/jumpdiffcalibrator/__pycache__/
