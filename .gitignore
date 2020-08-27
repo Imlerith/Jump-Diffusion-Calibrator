@@ -1,4 +1,5 @@
-*.git
+.git/
 *.pyc
-*.ipynb_checkpoints
+.ipynb_checkpoints/
 *.DS_Store
+jumpdiffcalibrator/__pycache__/
