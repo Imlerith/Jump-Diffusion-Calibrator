@@ -1,5 +1,5 @@
 # Jump-Diffusion-Calibrator
-In this project, calibration of parameters of Heston and Bates models using Markov Chain Monte Carlo (MCMC) is performed based on the findings in the paper by Cape et al. [Estimating Heston's and Bates’ models parameters using Markov chain Monte Carlo simulation](https://doi.org/10.1080/00949655.2014.926899).
+In this project, calibration of parameters of Heston and Bates models using Markov Chain Monte Carlo (MCMC) is performed based on the findings in the [paper by Cape et al.](https://doi.org/10.1080/00949655.2014.926899) "Estimating Heston's and Bates’ models parameters using Markov chain Monte Carlo simulation".
 
 There are two implementations: pure Python and cythonized Python:
 
